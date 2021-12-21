@@ -6,6 +6,10 @@ Course Project for AM5011
 
 **[Video](https://www.youtube.com/watch?v=WOqCuXHhvuI)** : https://www.youtube.com/watch?v=WOqCuXHhvuI 
 
+APK for Oculus Quest 2 : https://drive.google.com/file/d/184BVo66q3u68f7zsSkeOwF4EJDl-R70W/view?usp=sharing
+
+Kindly note , this APK will only work on Quest and Quest 2 and requires Hand tracking access! This APK also is incomplete, meaning you can use whichever method of communication you prefer with the hardware you make. 
+
 The application was run on [Oculus Quest 2](https://www.oculus.com/)
 
 Final prototype : 

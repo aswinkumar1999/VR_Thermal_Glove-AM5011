@@ -9,7 +9,7 @@ Course Project for AM5011
 
 Unity Package for Oculus Quest 2 : https://drive.google.com/file/d/1xBs8NeNjcjLqpN7lWxxVzRwR7QExw7Z_/view?usp=sharing
 
-Kindly note , this APK will only work on Quest and Quest 2 and requires Hand tracking access! This APK also is incomplete, meaning you can use whichever method of communication you prefer with the hardware you make. 
+Kindly note , this APK will only work on Quest and Quest 2 and requires Hand tracking access! This Unity package is incomplete, meaning you can use whichever method of communication you prefer with the hardware you make. 
 
 The application was run on [Oculus Quest 2](https://www.oculus.com/)
 

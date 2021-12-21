@@ -12,7 +12,7 @@ Final prototype :
 
 <p float="left">
   <img src="https://github.com/aswinkumar1999/VR_Thermal_Glove-AM5011/blob/main/Images/IMG_20211215_151327.jpg" width="300" height="400" />
-  <img src="https://github.com/aswinkumar1999/VR_Thermal_Glove-AM5011/blob/main/Images/IMG_20211215_153233.jpg" width="600" height="400" /> 
+  <img src="https://github.com/aswinkumar1999/VR_Thermal_Glove-AM5011/blob/main/Images/IMG_20211215_153233.jpg" width="500" height="400" /> 
 </p>
 
 
